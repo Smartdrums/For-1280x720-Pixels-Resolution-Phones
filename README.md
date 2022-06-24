@@ -1,7 +1,7 @@
 # For-1280x720-Pixels-Resolution-Phones with volume buttons on the right (tested on ulephone S7)
 It requires: Metrodrummer2, Autoinput, Tasker (all on google play)
 
-Intall by visiting this link on your target device (that has tasker, autoinput, and metrodrummer already installed): https://taskernet.com/shares/?user=AS35m8nhBLZVx%2F4wR4Lfw%2BJJT%2FBs2OO8Ho%2BOkPGmLHygLGzXSAYNDZ7Poi3iSwwt5TeehXlFRtu4dtvkXD5F&id=Project%3ABossa
+Intall by visiting this link on your target device (it should have tasker, autoinput, and metrodrummer already installed): https://taskernet.com/shares/?user=AS35m8nhBLZVx%2F4wR4Lfw%2BJJT%2FBs2OO8Ho%2BOkPGmLHygLGzXSAYNDZ7Poi3iSwwt5TeehXlFRtu4dtvkXD5F&id=Project%3AAcoustic
 
 If you imported project from above link then you dont need the following script, but you can use it edit it and import it in tasker manually: 
 
